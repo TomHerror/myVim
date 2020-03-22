@@ -12,7 +12,7 @@ set number
 :set shiftwidth=4
 :set expandtab
 
-colorscheme onedark
+colorscheme molokai
 autocmd vimenter * NERDTree
 
 set guifont=Consolas\ 12
